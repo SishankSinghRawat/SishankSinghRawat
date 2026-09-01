@@ -2,10 +2,10 @@
 
 Data Engineer who's drifting toward AI + backend. I like systems that move data, serve it, and increasingly think for themselves.
 
-- 🔭 I'm currently working on a self-healing pipeline system that auto-diagnoses and fixes production errors (98% success rate, running for under $12/year)
+- 🔭 I'm currently exploring building a RAG project (or something in that space) to sharpen my AI engineering chops
 - 🌱 I'm currently learning hybrid search — combining vector + BM25 with RRF fusion for better retrieval
 - 👯 I'm looking to collaborate on RAG systems, AI agents, or anything at the intersection of data and LLMs
-- 🎯 Currently interviewing for GenAI / LLM Engineer roles
+- 🎯 Currently interviewing for GenAI / LLM Engineer / Data Engineer roles
 - 💬 Ask me about Databricks, PySpark, RAG pipelines, or vector search
 - 📫 How to reach me: rawatsishank@gmail.com
 
