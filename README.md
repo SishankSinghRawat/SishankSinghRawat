@@ -12,7 +12,7 @@ Data Engineer who's drifting toward AI + backend. I like systems that move data,
 ---
 
 **Languages:** Python · SQL · Java · C++  
-**Cloud & Data:** Azure · Databricks · PySpark · ADLS Gen · Azure App Services · Azure DevOps
+**Cloud & Data:** Azure · Databricks · PySpark · ADLS Gen 2 · Azure App Services · Azure DevOps
 **AI & Backend:** FastAPI · RAG · Vector Databases · LLM APIs  
 **Tools:** Git · Docker/Podman · Linux
 
